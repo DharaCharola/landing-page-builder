@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>attach</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="locations-add-manual" transform="translate(-880.000000, -734.000000)" fill="#00D74D">
+            <g id="activity" transform="translate(850.000000, 177.000000)">
+                <g id="attach" transform="translate(30.000000, 557.000000)">
+                    <path d="M5,0 C2.243,0 0,2.243 0,5 L0,15 C0,15.553 0.448,16 1,16 C1.552,16 2,15.553 2,15 L2,5 C2,3.346 3.346,2 5,2 C6.654,2 8,3.346 8,5 L8,13 C8,13.552 7.552,14 7,14 C6.448,14 6,13.552 6,13 L6,5 C6,4.448 5.552,4 5,4 C4.448,4 4,4.448 4,5 L4,13 C4,14.654 5.346,16 7,16 C8.654,16 10,14.654 10,13 L10,5 C10,2.243 7.757,0 5,0" transform="translate(5.000000, 8.000000) rotate(-180.000000) translate(-5.000000, -8.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.999928,1.99985 L26.999946,1.99985 C28.656772,1.99985 29.99994,3.343027 29.99994,4.999901 L29.99994,18.999886 C29.99994,20.656691 28.656772,21.999868 26.999946,21.999868 L4.999928,21.999868 C3.343102,21.999868 1.999934,20.656691 1.999934,18.999886 L1.999934,4.999901 C1.999934,3.343027 3.343102,1.99985 4.999928,1.99985 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-559.000000, -283.000000)">
+            <g id="design" transform="translate(-1.000000, -1.000000)">
+                <g id="content" transform="translate(96.000000, 60.000000)">
+                    <g id="payment-method" transform="translate(421.000000, 156.000000)">
+                        <g id="default" transform="translate(41.000000, 66.000000)">
+                            <g id="icon">
+                                <polygon id="Rounded-Rectangle-28" fill="#1CA7FF" points="3.999863 5.999865 27.999839 5.999865 27.999839 9.999812 3.999863 9.999812"></polygon>
+                                <g id="Rounded-Rectangle-29">
+                                    <use fill-opacity="0" fill="#161A75" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                    <path stroke="#161A75" stroke-width="2" d="M4.999928,2.99985 C3.89538445,2.99985 2.999934,3.89531405 2.999934,4.999901 L2.999934,18.999886 C2.999934,20.1044111 3.89539156,20.999868 4.999928,20.999868 L26.999946,20.999868 C28.1044824,20.999868 28.99994,20.1044111 28.99994,18.999886 L28.99994,4.999901 C28.99994,3.89531405 28.1044896,2.99985 26.999946,2.99985 L4.999928,2.99985 Z"></path>
+                                </g>
+                                <path d="M6.99985,15.999745 L16.999825,15.999745 C17.55214,15.999745 17.99986,16.44745 17.99986,16.999835 C17.99986,17.552085 17.55214,17.999785 16.999825,17.999785 L6.99985,17.999785 C6.44761,17.999785 5.99989,17.552085 5.99989,16.999835 C5.99989,16.44745 6.44761,15.999745 6.99985,15.999745 Z" id="Rounded-Rectangle-30" fill="#161A75"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

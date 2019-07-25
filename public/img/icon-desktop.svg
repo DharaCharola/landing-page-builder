@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>pc</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard" transform="translate(-876.000000, -1726.000000)" fill="#B0B8BC">
+            <g id="website-visitors" transform="translate(280.000000, 1538.000000)">
+                <g id="r1" transform="translate(40.000000, 112.000000)">
+                    <g id="visitors-by-device" transform="translate(555.000000, 15.000000)">
+                        <g id="stats" transform="translate(1.000000, 60.000000)">
+                            <g id="desktop">
+                                <path d="M2,11 L14,11 L14,3 L2,3 L2,11 Z M7,15 L9,15 L9,13 L7,13 L7,15 Z M14,1 L2,1 C0.895,1 0,1.895 0,3 L0,11 C0,12.104 0.895,13 2,13 L5,13 L5,15 L3,15 C2.448,15 2,15.448 2,16 C2,16.552 2.448,17 3,17 L13,17 C13.552,17 14,16.552 14,16 C14,15.448 13.552,15 13,15 L11,15 L11,13 L14,13 C15.105,13 16,12.104 16,11 L16,3 C16,1.895 15.105,1 14,1 Z" id="pc"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

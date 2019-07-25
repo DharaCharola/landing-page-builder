@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard" transform="translate(-878.000000, -1772.000000)" fill="#B0B8BC">
+            <g id="website-visitors" transform="translate(280.000000, 1538.000000)">
+                <g id="r1" transform="translate(40.000000, 112.000000)">
+                    <g id="visitors-by-device" transform="translate(555.000000, 15.000000)">
+                        <g id="stats" transform="translate(1.000000, 60.000000)">
+                            <g id="mobile" transform="translate(2.000000, 46.000000)">
+                                <path d="M6,14 C6.552,14 7,13.552 7,13 C7,12.448 6.552,12 6,12 C5.448,12 5,12.448 5,13 C5,13.552 5.448,14 6,14 Z M2,15 L10,15 L10,3 L2,3 L2,15 Z M10,1 L2,1 C0.895,1 0,1.895 0,3 L0,15 C0,16.105 0.895,17 2,17 L10,17 C11.105,17 12,16.105 12,15 L12,3 C12,1.895 11.105,1 10,1 Z" id="phone"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

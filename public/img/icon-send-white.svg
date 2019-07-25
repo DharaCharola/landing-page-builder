@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="conversations" transform="translate(-1057.000000, -872.000000)" fill="#FFFFFF">
+            <g id="chat" transform="translate(416.000000, 162.000000)">
+                <g id="reply" transform="translate(0.000000, 694.000000)">
+                    <g id="send" transform="translate(625.000000, 0.000000)">
+                        <path d="M23.3279005,25.9860634 L23.7230554,26.983 L24.9190554,30 L28.8613163,20.4526475 L23.3279005,25.9860634 Z M21.9030018,24.5825349 L27.4781959,19.0073408 L17.9820554,23 L21.0000554,24.218 L21.9030018,24.5825349 Z M31.2750554,16.586 C31.8430554,17.159 32.0120554,18.021 31.7030554,18.769 L26.7490554,30.769 C26.4410554,31.515 25.7190554,32 24.9190554,32 L24.9050554,32 C24.1000554,31.994 23.3780554,31.497 23.0790554,30.743 L21.8830554,27.726 L21.4120554,26.539 L20.2640554,26.075 L17.2460554,24.857 C16.4980554,24.555 16.0060554,23.827 16.0000554,23.014 C15.9940554,22.202 16.4760554,21.466 17.2200554,21.154 L29.1120554,16.154 C29.3580554,16.05 29.6170554,16 29.8740554,16 C30.3890554,16 30.8960554,16.203 31.2750554,16.586 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

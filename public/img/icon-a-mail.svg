@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="locations-list" transform="translate(-503.000000, -365.000000)" fill="#00DE40">
+            <g id="1" transform="translate(280.000000, 175.000000)">
+                <g id="email-campaign" transform="translate(223.000000, 188.000000)">
+                    <path d="M14,12 L2,12 L2,5.302 L7.36,9.769 C7.545,9.923 7.772,10 8,10 C8.228,10 8.455,9.923 8.64,9.769 L14,5.302 L14,12 Z M12.438,4 L8,7.698 L3.562,4 L12.438,4 Z M14,2 L2,2 C0.895,2 0,2.895 0,4 L0,12 C0,13.104 0.895,14 2,14 L14,14 C15.105,14 16,13.104 16,12 L16,4 C16,2.895 15.105,2 14,2 Z" id="icn-mail"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

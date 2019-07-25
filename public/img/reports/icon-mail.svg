@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="snapshot-report" transform="translate(-616.000000, -39.000000)" fill="#2A6CFF">
+            <g id="top-bar" transform="translate(30.000000, 10.000000)">
+                <g id="mail" transform="translate(586.000000, 27.000000)">
+                    <path d="M12.25,10.3333333 L1.75,10.3333333 L1.75,4.75166667 L6.44,8.47416667 C6.601875,8.6025 6.8005,8.66666667 7,8.66666667 C7.1995,8.66666667 7.398125,8.6025 7.56,8.47416667 L12.25,4.75166667 L12.25,10.3333333 Z M10.88325,3.66666667 L7,6.74833333 L3.11675,3.66666667 L10.88325,3.66666667 Z M12.25,2 L1.75,2 C0.783125,2 0,2.74583333 0,3.66666667 L0,10.3333333 C0,11.2533333 0.783125,12 1.75,12 L12.25,12 C13.216875,12 14,11.2533333 14,10.3333333 L14,3.66666667 C14,2.74583333 13.216875,2 12.25,2 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

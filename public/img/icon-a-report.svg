@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-report</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="locations-list" transform="translate(-310.000000, -363.000000)" fill="#188BF6">
+            <g id="1" transform="translate(280.000000, 175.000000)">
+                <g id="snapshot-report" transform="translate(30.000000, 188.000000)">
+                    <path d="M15,12 L14,12 L14,11 C14,10.45 13.55,10 13,10 C12.45,10 12,10.45 12,11 L12,12 L11,12 C10.45,12 10,12.45 10,13 C10,13.55 10.45,14 11,14 L12,14 L12,15 C12,15.55 12.45,16 13,16 C13.55,16 14,15.55 14,15 L14,14 L15,14 C15.55,14 16,13.55 16,13 C16,12.45 15.55,12 15,12 Z M9,2 C10.65,2 12,3.35 12,5 L9,5 L9,2 Z M7,14 L2,14 L2,2 L7,2 L7,7 L12,7 C12,7.55 12.45,8 13,8 C13.55,8 14,7.55 14,7 L14,5 C14,2.24 11.76,0 9,0 L2,0 C0.9,0 0,0.9 0,2 L0,14 C0,15.1 0.9,16 2,16 L7,16 C7.55,16 8,15.55 8,15 C8,14.45 7.55,14 7,14 Z" id="icn-report"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

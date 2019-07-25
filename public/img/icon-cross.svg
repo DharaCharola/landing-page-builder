@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-441.000000, -429.000000)" fill="#ACB5BA">
+            <g id="Company-Profile" transform="translate(-1.000000, -1.000000)">
+                <g id="Company-Data" transform="translate(279.000000, 241.000000)">
+                    <g id="0" transform="translate(81.000000, 111.000000)">
+                        <g id="Group" transform="translate(82.000000, 78.000000)">
+                            <rect id="Rectangle" x="10" y="0" width="4" height="24"></rect>
+                            <rect id="Rectangle" transform="translate(12.000000, 12.000000) rotate(-90.000000) translate(-12.000000, -12.000000) " x="10" y="0" width="4" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

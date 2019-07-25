@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="128px" viewBox="0 0 96 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="locations-list" transform="translate(-479.000000, -194.000000)" fill="#1785EA">
+            <g id="1" transform="translate(280.000000, 175.000000)">
+                <path d="M247,83 C238.168,83 231,75.832 231,67 C231,58.168 238.168,51 247,51 C255.832,51 263,58.168 263,67 C263,75.832 255.832,83 247,83 M199,67 C199,100.6 247,147 247,147 C247,147 295,100.6 295,67 C295,42.232 273.537143,19 247,19 C220.462857,19 199,42.232 199,67 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

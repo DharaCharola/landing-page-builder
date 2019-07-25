@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Messenger-color</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="conversations4" transform="translate(-322.000000, -210.000000)" fill="#007FFF">
+            <g id="messages" transform="translate(251.000000, 84.000000)">
+                <g id="1" transform="translate(17.000000, 108.000000)">
+                    <g id="social-channel" transform="translate(50.000000, 14.000000)">
+                        <path d="M10,4.0655914 C6.68628571,4.0655914 4,6.55288769 4,9.62114695 C4,11.3694803 4.87249689,12.9289618 6.23602484,13.9473321 L6.23602484,16.0655914 L8.27896894,14.9443692 C8.82418634,15.0952581 9.40178882,15.1767025 10,15.1767025 C13.3137143,15.1767025 16,12.6894062 16,9.62114695 C16,6.55288769 13.3137143,4.0655914 10,4.0655914 L10,4.0655914 Z M10.5962733,11.5470729 L9.06832298,9.91744325 L6.08695652,11.5470729 L9.36645963,8.0655914 L10.931677,9.69522103 L13.8757764,8.0655914 L10.5962733,11.5470729 L10.5962733,11.5470729 Z" id="Messenger"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-minus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-minus" transform="translate(6.000000, 6.000000) rotate(-90.000000) translate(-6.000000, -6.000000) " fill-rule="nonzero">
+            <circle id="Oval-6" fill="#FF4646" cx="6" cy="6" r="6"></circle>
+            <rect id="Combined-Shape" fill="#FFFFFF" x="5" y="3" width="2" height="6"></rect>
+        </g>
+    </g>
+</svg>

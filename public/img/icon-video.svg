@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>video</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="conversations" transform="translate(-1312.000000, -95.000000)" fill="#188BF6">
+            <g id="video" transform="translate(1302.000000, 83.000000)">
+                <path d="M24,22 L22,20 L21,20 L20,22 L12,22 L12,14 L20,14 L21,16 L22,16 L24,14 L24,22 Z M24.765,12.152 C24.518,12.05 24.258,12 24,12 C23.48,12 22.968,12.203 22.586,12.586 L21.881,13.29 L21.789,13.106 C21.45,12.428 20.758,12 20,12 L12,12 C10.895,12 10,12.895 10,14 L10,22 C10,23.104 10.895,24 12,24 L20,24 C20.758,24 21.45,23.572 21.789,22.894 L21.881,22.71 L22.586,23.414 C22.968,23.797 23.48,24 24,24 C24.258,24 24.518,23.95 24.765,23.848 C25.513,23.538 26,22.809 26,22 L26,14 C26,13.191 25.513,12.462 24.765,12.152 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="locations-list" transform="translate(-320.000000, -607.000000)">
+            <g id="3" transform="translate(310.000000, 597.000000)">
+                <g id="conversation">
+                    <g id="Group" transform="translate(10.000000, 10.000000)">
+                        <path d="M15.7065449,15.7014971 C15.9637238,15.4443175 16.0613202,15.0679562 15.9615272,14.7182078 C15.8617343,14.3684593 15.0949392,11.6916538 15.0959411,11.6826372 C16.9138965,8.18067447 15.9061994,3.87616454 12.7227075,1.54505992 C9.53921563,-0.786044706 5.13135262,-0.447066203 2.34172278,2.34339023 C-0.447907068,5.13384667 -0.785590331,9.54182058 1.54644289,12.7246362 C3.87847611,15.9074518 8.18327047,16.9138875 11.6846901,15.094899 L14.7232581,15.9564801 C15.0730057,16.0562733 15.449366,15.9586766 15.7065449,15.7014971 Z" id="Bubble-Filled-Icon" fill="#FFFFFF"></path>
+                        <rect id="Rectangle-5" fill="#009FFF" x="4" y="5" width="8" height="2" rx="1"></rect>
+                        <rect id="Rectangle-5-Copy" fill="#009FFF" x="4" y="9" width="6" height="2" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

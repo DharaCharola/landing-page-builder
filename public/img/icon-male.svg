@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard" transform="translate(-1308.000000, -2448.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="website-visitors" transform="translate(280.000000, 1538.000000)">
+                <g id="male" transform="translate(863.000000, 887.000000)">
+                    <g transform="translate(143.000000, 1.000000)" id="Combined-Shape">
+                        <path d="M30,40 C33.3137085,40 36,37.3137085 36,34 C36,30.6862915 33.3137085,28 30,28 C26.6862915,28 24,30.6862915 24,34 C24,37.3137085 26.6862915,40 30,40 Z M38.5124273,24 L36,24 C35.4477153,24 35,23.5522847 35,23 C35,22.4477153 35.4477153,22 36,22 L41,22 C41.5522847,22 42,22.4477153 42,23 L42,28 C42,28.5522847 41.5522847,29 41,29 C40.4477153,29 40,28.5522847 40,28 L40,25.4681839 L36.343569,29.1250116 C37.3823249,30.4746791 38,32.1652067 38,34 C38,38.418278 34.418278,42 30,42 C25.581722,42 22,38.418278 22,34 C22,29.581722 25.581722,26 30,26 C31.830031,26 33.5165441,26.6144728 34.864472,27.648351 L38.5124273,24 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
