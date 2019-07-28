@@ -1,5 +1,5 @@
 ### Landing Page Builder
-![Demo](demo.png)
+![Demo](https://github.com/DharaCharola/landing-page-builder/blob/master/demo.gif)
 
 ### `npm install`
 
